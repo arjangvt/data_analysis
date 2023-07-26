@@ -1,4 +1,4 @@
-# Pathnostics Take-home interview questions
+
 ## Table of contents
 * [Data Visualization](#data-visualization)
   * Task 1: The percentage of samples resistant (R) and sensitive (S) to each antibiotic.
