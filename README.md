@@ -39,10 +39,7 @@ the dataframe.
 
 #### How to run the unit testing code
 * CD to the dataunittest directory
-* On the command line type:<p>
-  ```python  testcases.py```
-
-Thanks for your consideration, please let me know if there is any question.
+* On the command line ty
 
 
 
